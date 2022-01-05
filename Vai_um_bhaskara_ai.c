@@ -30,7 +30,7 @@ if (delta > 0)
   printf ("\n x1 : %.2f",x1);
   printf ("\n x2 : %.2f\n\n",x2);
 }
-  
+
 printf("PROGRAMA ENCERRADO ! ");
   
 }
